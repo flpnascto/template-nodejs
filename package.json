@@ -1,0 +1,20 @@
+{
+  "name": "template-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flpnascto/template-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Felipe Melo Meireles do Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flpnascto/template-nodejs/issues"
+  },
+  "homepage": "https://github.com/flpnascto/template-nodejs#readme"
+}
